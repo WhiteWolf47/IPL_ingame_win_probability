@@ -1,4 +1,4 @@
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://whitewolf47-ipl-ingame-win-probability-app-1v3uf1.streamlit.app))
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://whitewolf47-ipl-ingame-win-probability-app-1v3uf1.streamlit.app)
 
 # IPL INGAME WIN PROBABILITY PREDICTOR
 MACHINE LEARNING MODEL BASED WEBAPP TO PREDICT IPL TEAMS' WIN PROBABILITY AT ANY INSTANCE OF MATCH
